@@ -1,0 +1,11 @@
+{
+  "name": "tp-creator",
+  "version": "1.0.0",
+  "description": "A simple cli tool to make training programs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jules - jules.coleman42@gmail.com",
+  "license": "MIT"
+}
